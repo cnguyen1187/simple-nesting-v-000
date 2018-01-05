@@ -83,6 +83,7 @@ def adding_matz
 
 
 end
+programmer_hash[grace_hopper][:known_for]
 
 def changing_alan
 	programmer_hash =
